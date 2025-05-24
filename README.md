@@ -3,7 +3,7 @@
 This project replicates Fetch's key user feature — scanning receipts to earn reward points. Built with React and TypeScript, it focuses on frontend logic, UX clarity, and clean component structure.
 
 ## Live Demo
-[https://fetch-clone-receipt-app.vercel.app](https://fetch-clone-receipt-app-wgpm.vercel.app/)
+[https://fetch-clone-receipt-app.vercel.app](https://fetch-clone-receipt-app.vercel.app/)
 
 ## Features
 - Upload a receipt (mocked file input)
